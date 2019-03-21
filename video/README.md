@@ -1,4 +1,4 @@
-For more information watch these videos:
+To see how the modules were made and tested, watch these videos:
 
 [![Made: JLCPCB TinyDev TM1637 modular LED matrix clock with ATtiny85](https://github.com/maxint-rd/arduino-modules/blob/master/video/020%20Made%20-%20JLCPCB%20TinyDev%20TM1637%20modular%20LED%20matrix%20clock%20with%20ATtiny85.jpg)](https://youtu.be/FfmRCfF5qQI)
 
