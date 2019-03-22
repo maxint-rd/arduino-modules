@@ -11,14 +11,14 @@ Here you can find the public modules I made for my Arduino projects. You can re-
 
 ## Development modules
 
-<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/03_TinyDev_ATtinyX4/render_tn.jpg" width=200>
+[<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/03_TinyDev_ATtinyX4/render_tn.jpg" width=200>](https://github.com/maxint-rd/arduino-modules/wiki/03-TinyDev-ATtinyX4)
 
 ### 03. TinyDev development board for ATtiny44A/84/841
 Small development board for using an ATtiny44A or similar 14-pin ATtiny in SMD package on a breadboard. Minimal hardware design featuring only MCU, breadboard friendly headers with extra power lines, ISP header for serial programming and reset button. Uses bare chip and limited extra components. Also usable for ATtiny84, ATtiny441 and ATtiny841.
 
 For more info see [this Wiki page](https://github.com/maxint-rd/arduino-modules/wiki/03-TinyDev-ATtinyX4)
 
-<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/05_TinyDev_ATtinyX5/render_tn.jpg" width=200>
+[<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/05_TinyDev_ATtinyX5/render_tn.jpg" width=200>](https://github.com/maxint-rd/arduino-modules/wiki/05-TinyDev-ATtinyX5)
 
 ### 05. TinyDev development board for ATtiny13A/45/85
 Narrow form factor development board for ATtiny85, ATtiny45 and ATtiny13A. Minimal hardware design featuring only MCU, breadboard friendly headers with extra power lines, ISP header for serial programming and reset button.
@@ -27,7 +27,7 @@ For more info see [this Wiki page](https://github.com/maxint-rd/arduino-modules/
 
 ## Display modules
 
-<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/07_TM1637_6x5_LED_matrix/render_tn.jpg" width=200>
+[<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/07_TM1637_6x5_LED_matrix/render_tn.jpg" width=200>](https://github.com/maxint-rd/arduino-modules/wiki/07-TM1637-6x5-LED-matrix)
 
 ### 07. TM1637 6x5 LED matrix
 TM16376x5 LED matrix with 3 key pushbutton interface.
@@ -37,7 +37,7 @@ For more info see [this Wiki page](https://github.com/maxint-rd/arduino-modules/
 
 ## Input modules
 
-<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/08_3x1_buttons_for_TM16xx/render_tn.jpg" width=200>
+[<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/08_3x1_buttons_for_TM16xx/render_tn.jpg" width=200>](https://github.com/maxint-rd/arduino-modules/wiki/08-3x1-buttons-for-TM16xx)
 
 ### 08. 3x1 buttons for TM16xx modules
 Simple PCB for 3 pushbuttons to be used as extension to a TM16xx module with button interface.
