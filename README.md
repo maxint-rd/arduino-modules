@@ -2,7 +2,7 @@
 Electronic modules made for Arduino.
 
 ## Introduction
-Here you can find the public modules I made for my Arduino projects. You can re-use the schematics and PBC-layouts freely and use services such as [[EasyEDA to make a PCB|Tutorial-Making-a-PCB-with-EasyEDA]] and [[JLCPCB to order your own modules|Tutorial-Ordering-a-PCB-from-JLCPCB]].
+Here you can find the public modules I made for my Arduino projects. You can re-use the schematics and PBC-layouts freely and use services such as [EasyEDA to make a PCB](https://github.com/maxint-rd/arduino-modules/wiki/Tutorial-Making-a-PCB-with-EasyEDA) and [JLCPCB to order your own modules](https://github.com/maxint-rd/arduino-modules/wiki/Tutorial-Ordering-a-PCB-from-JLCPCB).
 
 - [03. TinyDev development board for ATtiny44A/84/841](#03-tinydev-development-board-for-attiny44a84841)
 - [05. TinyDev development board for ATtiny13A/45/85](#05-tinydev-development-board-for-attiny13a4585)
