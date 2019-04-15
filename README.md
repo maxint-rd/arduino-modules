@@ -45,7 +45,7 @@ For more info see [this Wiki page](https://github.com/maxint-rd/arduino-modules/
 
 &nbsp;
 
-[<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/02_TM1640_3mm_matrix_8x16/02_TM1640_1088BS_tn.jpg" width=200>](https://github.com/maxint-rd/arduino-modules/wiki/02-TM1640-3mm-matrix-8x1)
+[<img align="right" src="https://github.com/maxint-rd/arduino-modules/blob/master/02_TM1640_3mm_matrix_8x16/02_TM1640_1088BS_tn.jpg" width=200>](https://github.com/maxint-rd/arduino-modules/wiki/02-TM1640-3mm-matrix-8x16)
 
 ### 02. TM1640 3mm matrix 8x16
 TM1640 3mm LED matrix module for dual 1088BS common cathode 8x8 3mm LED display.
