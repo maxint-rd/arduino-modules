@@ -4,7 +4,7 @@ Electronic modules made for Arduino.
 ## Introduction
 Here you can find the public modules I made for my Arduino projects. You can re-use the schematics and PBC-layouts freely and use services such as [EasyEDA to make a PCB](https://github.com/maxint-rd/arduino-modules/wiki/Tutorial-Making-a-PCB-with-EasyEDA) and [JLCPCB to order your own modules](https://github.com/maxint-rd/arduino-modules/wiki/Tutorial-Ordering-a-PCB-from-JLCPCB).
 
-Modules types:
+Module types:
 - [Development modules](#development-modules)
 - [Display modules](#display-modules)
 - [Input modules](#input-modules)
